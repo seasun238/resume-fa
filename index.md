@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+<div dir="rtl">
+  <img src="" />
+  <h1> درباره‌ی من</h1>
+  <p>از ویژگی های من می توان به در یافت آموزشهای به روز ، خونسرد بودن ، صبور بودن ، پیگیر بودن اشارهکرد که همین ها باعث پیشرفت در سمت های مختلف و بیست سال سابقه کاری شد.</p>
+  
+  <ul>
+    <h3> مشخصات فردی</h3>
+  <li>نام:هلن </li>
+  <li>نام خانوادگے: دباغی بوکانی</li>
+  <li>وضعیت تاهل: متاهل</li>
+  <li>تاریخ تولد:۱۳۵۳/۰۶/۰۱</li>
+  <li>محل سکونت: تهران</li>
+</ul>
 
-You can use the [editor on GitHub](https://github.com/seasun238/resume-fa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  
+<h1>مهارت ها</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<ul>
+  <li>مدیریت</li>
+  <li>مربیگری</li>
+  <li>تدریس</li>
+  <li>شنا</li>
+  <li>تنیس</li>
 
-### Markdown
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h1> مدرک ها</h1>
+<ul>
+  <li> مدرک ICDL صادره از سازمان فنی و حرفه ای ایران (1398)</li>
+  <li> مدرک حمل ونقل جاده ای بین المللی کالا ایرو </li>
+  <li> گواهینامه حمل ونقل کانتینری </li>
+  <li> گواهینامه طراحی صفحات وب شامل برنامه نویسی</li>
+  <li>html</li>
+  <li>Flash</li>
+  <li>WEB DESIGNER</li>
+  <li>FrontPage</li>
+  <li>Dream Weaver </li>
+  <li>گواهینامه فوریتهای پزشکی وامدادگری صادره توسط جهاد دانشگاهی و واحد علوم پزشکی تهران </li>
+  <li>مدارک مدیریت و مربیگری آموزشگاه فنی وحرفه ای آزاد در زمینه اینترنت</li>
+  <li>گواهینامه های تایپ کامپیوتری و دوره زرنگار </li>
+  <li>مدرک دیپلم علوم تجربی (1375)</li>
+  <li> مدرک تحصیلی کاردانی کاربرد کامپیوتر 
+از دانشگاه آزاد اسلامی واحد مبارکه  
+</li>
 
-```markdown
-Syntax highlighted code block
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+  <li>انگلیسی</li>
+  <li>کردی</li>
+</ul>
 
-- Bulleted
-- List
+<h1>تجربه های کاری </h1>
+<ul>
+   <li>کشتیرانی و حمل و نقل بین المللی</li>
+   <li>دارای بیست سال سابقه کاری در شرکت های کشتیرانی و حمل و نقل بین المللی در سمت 
+های مختلف (مدیر واردات، صادرات، بازاریابی، ترانزیت، بخش عملیات و پیگیری ) 
+</li>
+  <li>دیریت و مربیگری(تدریس) در آموشگاهای آزاد کامپیوتری</li>
+</ul>
 
-1. Numbered
-2. List
+<h1>سوابق تحصیلی </h1>
+<ul>
+   <li> مهندسی کامپیوتر دانشگاه پیام نور - واحد تهران شمال </li>
 
-**Bold** and _Italic_ and `Code` text
+</ul>
 
-[Link](url) and ![Image](src)
-```
+<br/>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seasun238/resume-fa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1>سایر حساب های کاربری </h1>
+<ul>
+  <li>اینستاگرام: <a href="https://instagram.com/sea_sun238?igshid=1qyzfivqknjm9">https://instagram.com/sea_sun238?igshid=1qyzfivqknjm9</a></li>
+  <li>رزومه‌ی انگلیسے: <a href=""> رزومه </a></li>
+</ul>
