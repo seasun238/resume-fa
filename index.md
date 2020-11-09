@@ -72,5 +72,6 @@
 <h1>سایر حساب های کاربری </h1>
 <ul>
   <li>اینستاگرام: <a href="https://instagram.com/sea_sun238?igshid=1qyzfivqknjm9">https://instagram.com/sea_sun238?igshid=1qyzfivqknjm9</a></li>
+  <li> ایمیل: <a href="seasun238@gmail.com">seasun238@gmail.com</a></li>
   <li>رزومه‌ی انگلیسے: <a href="https://seasun238.github.io/"> رزومه </a></li>
 </ul>
