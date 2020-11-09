@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
-title: هلن دباغی بوکانی
-description: (۰۹۱۹۴۰۶۵۴۰۰)
+
+< ! DOCTYPE html>
+<html dir="rtl" lang="fa-IR">
+<head>
+  <meta charset="utf-8">
+</head>
+
+<body style="direction: rtl;">
+<p>هلن دباغی بوکانی</p>
+<p>۰۹۱۹۴۰۶۵۴۰۰</p>
+</body>
+</html>
